@@ -1,0 +1,13 @@
+a=int(input('enter the value of a:')) 
+ ​b=int(input('enter the value of b:')) 
+ ​if a>=b: 
+ ​  print('a is biggest number') 
+ ​else:  
+ ​  print('a is smallest number')      
+  
+
+Output
+Enter a value 10
+Enter b value 5
+a is biggest number
+                 
